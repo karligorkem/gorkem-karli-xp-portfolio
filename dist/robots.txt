@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gorkem-karli-xp-portfolio.gorkemkarli41.chatgpt.site/sitemap.xml
